@@ -1,0 +1,33 @@
+{
+  "name": "hashtable",
+  "version": "1.0.0",
+  "description": "Learning hashtables for Odin Project",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm install npm-run-all --save-dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerjones4075/learningAlgorithms.git#main"
+  },
+  "keywords": [
+    "hashtable",
+    "learning",
+    "odin",
+    "project"
+  ],
+  "author": "Tanner Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerjones4075/learningAlgorithms/issues"
+  },
+  "homepage": "https://github.com/tannerjones4075/learningAlgorithms/tree/main#readme",
+  "dependencies": {
+    "blueimp-md5": "^2.19.0"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

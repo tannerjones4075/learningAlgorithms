@@ -1,3 +1,13 @@
+## Install Dependencies
+```bash
+npm start
+```
+
+### Test 
+```bash
+node main.js
+```
+
 ```mermaid
 graph TD
     A[Hash Table]

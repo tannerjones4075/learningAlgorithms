@@ -1,2 +1,2 @@
 # linkedList
-Learning about LinkedList in the Odin Project
+Learning about different algorithms in the Odin Project
